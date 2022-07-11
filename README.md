@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# Bossbar Stack
+Very simple mod that stacks all bossbars with the same name together.
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+![2022-07-11_11 14 50](https://user-images.githubusercontent.com/18114966/178231634-9dc07937-3538-4551-84de-3df19b0f01be.png)
