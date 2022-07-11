@@ -1,12 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "anticope.bossstack",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [
-  ],
   "client": [
-    "ExampleMixin"
+    "BossBarHudMixin"
   ],
   "injectors": {
     "defaultRequire": 1
