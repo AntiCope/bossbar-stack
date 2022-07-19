@@ -1,4 +1,4 @@
-package anticope.bossstack;
+package anticope.bossstack.mixins;
 
 import java.util.Collection;
 import java.util.HashMap;

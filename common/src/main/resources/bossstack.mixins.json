@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "anticope.bossstack",
+  "package": "anticope.bossstack.mixins",
   "compatibilityLevel": "JAVA_17",
   "client": [
     "BossBarHudMixin"

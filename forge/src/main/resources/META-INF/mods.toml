@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[41,)"
+#issueTrackerURL = ""
+license = "Insert License Here"
+
+[[mods]]
+modId = "bossstack"
+version = "${version}"
+displayName = "Bossbar stack"
+authors = "Cloudburst"
+description = '''
+Stacks all bossbars with the same name together
+'''
+logoFile = "icon.png"
+
+[[dependencies.bossstack]]
+modId = "forge"
+mandatory = true
+versionRange = "[41,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.bossstack]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19,)"
+ordering = "NONE"
+side = "BOTH"
