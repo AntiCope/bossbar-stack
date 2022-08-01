@@ -22,6 +22,6 @@
     "bossstack.mixins.json"
   ],
   "depends": {
-    "minecraft": "*"
+    "minecraft": "~${mc_version}"
   }
 }
