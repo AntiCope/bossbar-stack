@@ -16,7 +16,7 @@ logoFile = "icon.png"
 [[dependencies.bossstack]]
 modId = "forge"
 mandatory = true
-versionRange = "[41,)"
+versionRange = "[43,)"
 ordering = "NONE"
 side = "BOTH"
 
