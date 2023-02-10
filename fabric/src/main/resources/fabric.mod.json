@@ -12,7 +12,7 @@
     "sources": "https://github.com/AntiCope/bossbar-stack"
   },
 
-  "license": "CC0-1.0",
+  "license": "GPL-3.0",
   "icon": "assets/bossstack/icon.png",
 
   "environment": "client",
